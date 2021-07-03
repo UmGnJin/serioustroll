@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 481f9a45a6b9b5347a7ebb1dd7577f47
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wallTile: {fileID: 6576234127531642308, guid: 912e9092285e75b4ea02324eaec73071,
+      type: 3}
+  - floorTile: {fileID: 170492, guid: 12018e049b402d04a831d2bdb42fe52f, type: 3}
+  - upStairsTile: {fileID: 4878852671182285024, guid: 2bda7e5e6240dd14fb6fc9af80a62179,
+      type: 3}
+  - downStairsTile: {fileID: 8234797073799674838, guid: 7d99b82577a006d4a96a18673b4886a8,
+      type: 3}
+  - doorTile: {fileID: 4153479651194722229, guid: d68a253817161b14f99a8809a475b5c9,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
